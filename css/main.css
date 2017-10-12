@@ -1,0 +1,26 @@
+#myCanvas, #myCanvas2{
+    border: 1px solid #333;
+}
+
+/*
+#myCanvas2{
+    position: relative;
+}
+
+.bar{
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    background-color: aquamarine;
+    border: 1px solid #666;
+    box-sizing: border-box;
+    height: 30px;
+    width: 10px;
+    transition: width 0.8s ease-in;
+}
+.canvas3{
+  width: 400px;
+  height: 400px;
+  position:relative;
+  border: 1px solid black;
+}*/
