@@ -2,7 +2,6 @@
 
 Project name: Canvas Charts
 
-Link: http://gao00078.edumedia.ca/mad9022/pieChart/index.html
 
 
 Using the HTML5 Canvas tag and Javascript, I build a web page with two charts representing the same data.
