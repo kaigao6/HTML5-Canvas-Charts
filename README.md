@@ -2,7 +2,7 @@
 
 Project name: Canvas Charts
 
-
+Demo Link: https://html5-canvas-charts-kaigao.firebaseapp.com/
 
 Using the HTML5 Canvas tag and Javascript, I build a web page with two charts representing the same data.
 
